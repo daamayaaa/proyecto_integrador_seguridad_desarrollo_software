@@ -1,6 +1,6 @@
 # secure-demo — Proyecto integrador de verificación y pruebas de seguridad
 
-Microservicio Spring Boot (Java 17) usado como caso práctico para el proyecto
+Microservicio Spring Boot desarrollado en Java 17, usado como caso práctico para el proyecto
 integrador de **verificación, pruebas de seguridad, fuzzing y detección de
 vulnerabilidades** sobre el software de una organización (caso: "TechCommerce
 S.A.S.", API de gestión de usuarios).
